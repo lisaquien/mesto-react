@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c81bce7.css",
+    "main.js": "/static/js/main.b73eb866.js",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/header-logo.svg": "/static/media/header-logo.e1792cd1bf55c68d1538deb5b248d425.svg",
+    "static/media/heart-disabled.svg": "/static/media/heart-disabled.87ed371465c7a6a1cd01.svg",
+    "index.html": "/index.html",
+    "static/media/remove-button.svg": "/static/media/remove-button.cbc09a894bdd4c956365.svg",
+    "static/media/heart-active.svg": "/static/media/heart-active.e787eeb70bb65b7b453a.svg",
+    "static/media/edit-button-xs.svg": "/static/media/edit-button-xs.2f7be95ab48bbff7d88c.svg",
+    "static/media/add-button-l.svg": "/static/media/add-button-l.6f86ece55e54220c5485.svg",
+    "static/media/add-button.svg": "/static/media/add-button.6f41966c71dd7895857f.svg",
+    "static/media/edit-button.svg": "/static/media/edit-button.a1892ea72cb87c8fc3aa.svg",
+    "static/media/edit-profile-pic.svg": "/static/media/edit-profile-pic.a086f758840ae814ecde.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.2ceb783afbab75916ddc.svg",
+    "static/media/close-icon-xs.svg": "/static/media/close-icon-xs.b793e07c3f4c19e26c11.svg",
+    "main.1c81bce7.css.map": "/static/css/main.1c81bce7.css.map",
+    "main.b73eb866.js.map": "/static/js/main.b73eb866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c81bce7.css",
+    "static/js/main.b73eb866.js"
+  ]
+}
